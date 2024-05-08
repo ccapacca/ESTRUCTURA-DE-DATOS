@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\bin\Debug\semana7colas2.exe.config
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\bin\Debug\semana7colas2.exe
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\bin\Debug\semana7colas2.pdb
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\obj\Debug\semana7colas2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\obj\Debug\semana7colas2.Form1.resources
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\obj\Debug\semana7colas2.Properties.Resources.resources
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\obj\Debug\semana7colas2.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\obj\Debug\semana7colas2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\obj\Debug\semana7colas2.exe
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\semana7colas2\semana7colas2\obj\Debug\semana7colas2.pdb
