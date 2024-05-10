@@ -1,0 +1,10 @@
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\bin\Debug\Colas.exe.config
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\bin\Debug\Colas.exe
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\bin\Debug\Colas.pdb
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\obj\Debug\Colas.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\obj\Debug\Colas.Form1.resources
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\obj\Debug\Colas.Properties.Resources.resources
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\obj\Debug\Colas.csproj.GenerateResource.cache
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\obj\Debug\Colas.exe
+C:\Users\UPN\Desktop\Roberto_Jim_Marlo_Garcia_Esquen\Colas\Colas\obj\Debug\Colas.pdb
