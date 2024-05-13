@@ -1,0 +1,10 @@
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\bin\Debug\practicando en colas.exe.config
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\bin\Debug\practicando en colas.exe
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\bin\Debug\practicando en colas.pdb
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\obj\Debug\practicando en colas.csproj.AssemblyReference.cache
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\obj\Debug\practicando_en_colas.Form1.resources
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\obj\Debug\practicando_en_colas.Properties.Resources.resources
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\obj\Debug\practicando en colas.csproj.GenerateResource.cache
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\obj\Debug\practicando en colas.csproj.CoreCompileInputs.cache
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\obj\Debug\practicando en colas.exe
+C:\Users\elnue\OneDrive\Escritorio\practicando en colas\practicando en colas\obj\Debug\practicando en colas.pdb
