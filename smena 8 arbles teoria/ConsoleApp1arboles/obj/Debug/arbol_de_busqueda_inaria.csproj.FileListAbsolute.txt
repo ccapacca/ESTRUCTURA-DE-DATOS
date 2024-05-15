@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\smena 8 arbles teoria\ConsoleApp1arboles\bin\Debug\ConsoleApp1arboles.exe.config
+C:\Users\UPN\Desktop\smena 8 arbles teoria\ConsoleApp1arboles\bin\Debug\ConsoleApp1arboles.exe
+C:\Users\UPN\Desktop\smena 8 arbles teoria\ConsoleApp1arboles\bin\Debug\ConsoleApp1arboles.pdb
+C:\Users\UPN\Desktop\smena 8 arbles teoria\ConsoleApp1arboles\obj\Debug\arbol_de_busqueda_inaria.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\smena 8 arbles teoria\ConsoleApp1arboles\obj\Debug\arbol_de_busqueda_inaria.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\smena 8 arbles teoria\ConsoleApp1arboles\obj\Debug\ConsoleApp1arboles.exe
+C:\Users\UPN\Desktop\smena 8 arbles teoria\ConsoleApp1arboles\obj\Debug\ConsoleApp1arboles.pdb
